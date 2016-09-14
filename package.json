@@ -1,0 +1,17 @@
+{
+  "name": "fullsize.js",
+  "version": "0.0.1",
+  "description": "Full size content made easy :)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "full",
+    "full.js",
+    "breakout",
+    "content",
+    "fullscreen"
+  ],
+  "author": "ItsJonQ <itsjonq@gmail.com> (http://jonquach.com)",
+  "license": "MIT"
+}
